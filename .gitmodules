@@ -7,3 +7,4 @@
 [submodule "e2sim/3rdparty/manager_api"]
 	path = e2sim/3rdparty/manager_api
 	url = https://github.com/LABORA-INF-UFG/e2sim_environment_manager.git
+	branch = main
